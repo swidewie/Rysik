@@ -26,9 +26,6 @@ public class Adopter {
     public void setPhoneNumber(String phoneNumber){
         this.phoneNumber = phoneNumber;
     }
-    public boolean adoptPet(Pet pet) {
-        return true;
-    }
     public String toString(){
         return "Adopter name: " + name + ", Information: " + age + " years old, phone number: " + phoneNumber;
     }
