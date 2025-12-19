@@ -7,9 +7,8 @@ public class Main {
         String petName = scanner.nextLine();
         System.out.print("Species: ");
         String petSpecies = scanner.nextLine();
-        System.out.print("Age: ");
+        System.out.print("age: ");
         int petAge = scanner.nextInt();
-
 
         System.out.print("Adopter name: ");
         scanner.nextLine();
@@ -19,15 +18,13 @@ public class Main {
         System.out.print("age: ");
         int adopterAge = scanner.nextInt();
 
-
         scanner.nextLine();
-        System.out.print("Shelter Name: ");
+        System.out.println("Shelter Name: ");
         String shelterName = scanner.nextLine();
         System.out.print("Location: ");
         String shelterLocation = scanner.nextLine();
         System.out.print("id: ");
         int shelterId = scanner.nextInt();
-
 
         Pet pet1 = new Pet(petName, petSpecies, petAge);
         System.out.println(pet1.toString());
@@ -36,5 +33,6 @@ public class Main {
         Shelter shelter = new Shelter(shelterId, shelterName, shelterLocation);
         System.out.println(shelter.toString());
         }
+
 }
 

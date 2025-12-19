@@ -26,7 +26,6 @@ public class Shelter {
     public void setLocation(String location){
         this.location = location;
     }
-
     public String toString(){
         return "Shelter id: " + id + ", Name: " + name + ", Address: " + location;
     }
