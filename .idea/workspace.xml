@@ -5,14 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="370dbaa0-a00a-4c5d-bfd7-dcd29ebdc96d" name="Changes" comment="src">
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Rysik/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rysik/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rysik/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rysik/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adopter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shelter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shelter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,6 +66,7 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -106,7 +119,11 @@
       <option name="presentableId" value="Default" />
       <updated>1766086153096</updated>
       <workItem from="1766086154357" duration="2183000" />
-      <workItem from="1766117251840" duration="1322000" />
+      <workItem from="1766117251840" duration="3231000" />
+      <workItem from="1766985702564" duration="2299000" />
+      <workItem from="1767173053332" duration="904000" />
+      <workItem from="1767295854042" duration="10810000" />
+      <workItem from="1767373143509" duration="7683000" />
     </task>
     <task id="LOCAL-00005" summary="src">
       <option name="closed" value="true" />
@@ -124,7 +141,39 @@
       <option name="project" value="LOCAL" />
       <updated>1766117280993</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="src">
+      <option name="closed" value="true" />
+      <created>1766118915121</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766118915121</updated>
+    </task>
+    <task id="LOCAL-00008" summary="src">
+      <option name="closed" value="true" />
+      <created>1766118919334</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1766118919334</updated>
+    </task>
+    <task id="LOCAL-00009" summary="src">
+      <option name="closed" value="true" />
+      <created>1766118933165</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1766118933165</updated>
+    </task>
+    <task id="LOCAL-00010" summary="src">
+      <option name="closed" value="true" />
+      <created>1766118984749</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766118984749</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +182,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="src" />
     <option name="LAST_COMMIT_MESSAGE" value="src" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
